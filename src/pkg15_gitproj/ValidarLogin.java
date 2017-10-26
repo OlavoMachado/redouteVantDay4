@@ -24,8 +24,8 @@ public class ValidarLogin {
         return active;
     }
 
-    public void setActive(int active) {
-        this.active = active;
+    public void setActive(int oActive) {
+        this.active = oActive;
     }
     
 }
