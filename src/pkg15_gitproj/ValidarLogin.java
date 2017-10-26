@@ -1,8 +1,8 @@
 package pkg15_gitproj;
 
 /**
- * 
  * @author omachado
+ * @serial 
  */
 public class ValidarLogin {
     
@@ -16,5 +16,6 @@ public class ValidarLogin {
         this.username = username;
     }
     
-    
+    public static void main(String[] args) {
+    }
 }
