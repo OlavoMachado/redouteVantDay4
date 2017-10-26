@@ -1,8 +1,8 @@
 package pkg15_gitproj;
 
 /**
- * 
  * @author omachado
+ * @serial 
  */
 public class ValidarLogin {
     
@@ -15,6 +15,9 @@ public class ValidarLogin {
 
     public void setUsername(String username) {
         this.username = username;
+    }
+    
+    public static void main(String[] args) {
     }
 
     public int getActive() {
