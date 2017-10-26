@@ -7,6 +7,7 @@ package pkg15_gitproj;
 public class ValidarLogin {
     
     String username;
+    int active;
 
     public String getUsername() {
         return username;
@@ -15,6 +16,13 @@ public class ValidarLogin {
     public void setUsername(String username) {
         this.username = username;
     }
-    
+
+    public int getActive() {
+        return active;
+    }
+
+    public void setActive(int active) {
+        this.active = active;
+    }
     
 }
