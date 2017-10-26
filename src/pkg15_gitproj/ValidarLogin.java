@@ -1,5 +1,9 @@
 package pkg15_gitproj;
 
+/**
+ * 
+ * @author omachado
+ */
 public class ValidarLogin {
     
     String username;
